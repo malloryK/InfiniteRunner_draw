@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TrailRendererWith2DCollider.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NonPhysicsPlayerTester.cs">
     <Files>
-      <File FileName="Assets\trailOnClick.cs" Line="21" Column="2" />
-      <File FileName="Assets\TrailRendererWith2DCollider.cs" Line="202" Column="79" />
+      <File FileName="Assets\Scripts\SwipeDetector.cs" Line="6" Column="28" />
+      <File FileName="Assets\Scripts\NonPhysicsPlayerTester.cs" Line="66" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
